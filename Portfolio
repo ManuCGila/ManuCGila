@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<HTML lang="es">
+<head>
+<title>ManuCGila</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Type of metadata">
+<meta name="keywords" content="ManuCGila, Designer, UI, UX, frontend, graphic design, twitch designer, Manuel, Concha, Gila">
+<meta name="author" content="ManuCGila, Manuel Concha Gila">
+<link rel="stylesheet" type="text/css" href="css_portfolio.css" media="screen">
+</head>
+<body>
+<div id="menu">
+<ul>
+<li><a href="#sobremi">Sobre mi</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#otros">Otros diseños</a></li>
+<li><a href="#contacto">Contacto</a></li>
+</ul>
+</div>
+<div id="Contenedor">
+    <div id="fila">
+        <div id="columna">
+            <div id="sobremi">
+            <h1>Hola, soy Manu, un diseñador al que le gusta encontrar problemas y solucionarlos.</h1>
+            <p>El diseño es algo más que dejar las cosas bonitas. Es que cumplan una función.</p>
+            <p>Me podrás encontrar en <a href="https://instagram.com/manucgila" alt="instagram de Manu C Gila" target="_blank"> instagram</a> o <a href="https://twitter.com/ManuCGila" alt="Twitter de Manu C Gila" target="_blank"> twitter</a> como <h2>@ManuCGila</h2>
+            </div>
+        </div>
+        <div id="columna">
+            <div id="imgsobremi">
+            </div>
+        </div>
+    </div>
+        <div id="fila">
+        <div id="columna">
+            <div id="txtcurriculo">
+            <h3>Curriculo</h3>
+            <ul>
+            <li><i>Septiembre 2017 - Actualidad</i><br><b>Diseñador UI/UX<br>Diseñador multimedia y RRSS</b><br> en Everyone+</li>
+            <br>
+            <li><i>2016 - Actualidad</i><br><b>Animador y fotógrafo de fiestas y festivales</b><br> en Jagermeister España</li>
+            <br>
+            <li><i>Marzo 2017 - Junio 2017</i><br><b>Diseñador gráfico, encargado de señalética, papelería, RRSS y multimedia</b><br>
+            en Luxemedia Publishers</li>
+            <br>
+            <li><i>Junio 2016 - Septiembre 2016</i><br>Prácticas en Kreative Work</li>
+            </ul>
+            </div>
+        </div>
+        <div id="columna">
+        <div id="estudios">
+        <h3>Estudios</h3>
+        <ul>
+        <li><b>Máster en Diseño UI/UX</b><br><i>CICE</i></li>
+        <li><b>Grado de Diseño Gráfico</b><br><i>ESD Madrid</i></li>
+        </ul>
+        </div>
+            <div id="txthabilidades">
+            <h3>Habilidades</h3>
+            <ul>
+            <li>Photoshop</li>
+            <li>Illustrator</li>
+            <li>Figma</li>
+            <li>Indesign</li>
+            <li>After effects</li>
+            <li>Premiere</li>
+            <li>Xd</li>
+            <li>Dimensions</li>
+            <li>Sketch</li>
+            </ul>
+            </div>
+        </div>
+        <div id="fila">
+            <div id="columna">
+                <div id="clientes">
+                <h3>Algunos clientes</h3>
+                <h2>González Byas</h2><h2>The London Nº1</h2><h2>Whisky Nomad</h2><h2>Prima</h2><h2>Chilly</h2><h2>Somatoline</h2><h2>Kerry Gold</h2><h2>Cambridge English</h2><h2>Iveco</h2><h2>Discovery Max</h2><h2>Colgate</h2>
+                </div>
+            </div>
+        <div id="fila">
+            <div id="columna">
+                <div id="portfolio">
+                <h1>Caso de estudio 1</h1>
+                <p>Este mismo portfolio.</p>
+                </div>
+            </div>
+        </div>
+        <!--
+        <div id="fila">
+            <div id="columna">
+                <div id="portfolio">
+                <h1>Caso de estudio 2</h1>
+                <p>Este mismo portfolio.</p>
+                </div>
+            </div>
+        </div>
+        -->
+        <div id="fila">
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+        </div>
+                <div id="fila">
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+            <div id="columna">
+                <div id="otros">
+                <h3>Un trabajo</h3>
+                </div>
+            </div>
+        </div>
+            <div id="fila">
+                    <div id="columna">
+                        <div id="contacto">
+                        <h3>Contacto</h3>
+                        <p>¿Tienes un proyecto en mente? No dudes en contactarme en <a href="https://instagram.com/manucgila" alt="instagram de Manu C Gila" target="_blank"> instagram</a> o <a href="https://twitter.com/ManuCGila" alt="Twitter de Manu C Gila" target="_blank"> twitter</a> como <b>@ManuCGila</b>
+                        <br>
+                        <p> o puedes escribirme un correo a <b>hola@manucgila.com</b> o usar el siguiente formulario:
+                        <form action="mailto:design@manucgila.com" method="post" enctype="text/plain">
+                        Nombre:<br>
+                        <input type="text" name="Nombre"><br>
+                        E-mail:<br>
+                        <input type="text" name="Mail"><br>
+                        Comentario:<br>
+                        <input type="text" name="Comentario" size="50"><br><br>
+                        <input type="submit" value="Enviar">
+                        <input type="reset" value="Reset">
+                        </form>
+                        </div>
+                    </div>
+                </div>
+        <div id="fila">
+            <div id="columna">
+                <div id="footer">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <footer>
+        <!--
+            <h4>Site Map </h4>
+                <ul>
+                <li>Sobre mi</li>
+                <li>Portfolio</li>
+                <li>Otros diseños</li>
+                <li>Contacto</li>
+            -->    
+        
+        <h6>Esta página como todos los diseños que aparecen en ella, han sido 
+        diseñados por Manuel Concha Gila, la marca ManuCGila está registrada</h6>
+        </footer>
+    </div>
+</body>
+</html>
